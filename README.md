@@ -1,12 +1,18 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-
+<br>
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Thowfeek Salim</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <br>
 <br>
+
+
+<br>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thowfeeksalim&label=Profile%20views&color=0e75b6&style=flat" alt="thowfeeksalim" /> </p>
-
+<img align="right" alt="coding is fun" width="" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
 
 <p align="left"> <a href="https://twitter.com/thowfeeksalim6" target="blank"><img src="https://img.shields.io/twitter/follow/thowfeeksalim6?logo=twitter&style=for-the-badge" alt="thowfeeksalim6" /></a> </p>
 
