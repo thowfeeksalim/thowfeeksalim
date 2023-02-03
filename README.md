@@ -47,3 +47,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thowfeeksalim&show_icons=true&locale=en" alt="thowfeeksalim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thowfeeksalim&" alt="thowfeeksalim" /></p>
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/thowfeeksalim/count.svg" />
+</p>
