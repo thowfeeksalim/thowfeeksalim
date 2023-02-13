@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Thowfeek Salim</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <br>
+<a href=#><img src="contributions.svg"></a>
 <br>
 
 
@@ -48,4 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thowfeeksalim&" alt="thowfeeksalim" /></p>
 
-<a href=#><img src="contributions.svg"></a>
+
