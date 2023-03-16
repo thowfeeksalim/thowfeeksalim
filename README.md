@@ -21,7 +21,7 @@
 
 - 🌱 I’m Currently Learning **JavaScript ,Mango DB, Json Api, AWS**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/thowfeeksalim001/sites](https://app.netlify.com/teams/thowfeeksalim001/sites)
+- 👨‍💻 All of my projects are available at [https://github.com/thowfeeksalim?tab=repositories](https://github.com/thowfeeksalim?tab=repositories)
 
 - 💬 Ask me about **JavaScript, Tailwind ,Bootstrap**
 
