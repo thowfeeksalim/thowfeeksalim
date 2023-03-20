@@ -19,7 +19,7 @@
 
 - 🔭 I’m Currently Working On **Nodejs Project**
 
-- 🌱 I’m Currently Learning **JavaScript ,Mango DB, Json Api, AWS**
+- 🌱 I’m Currently Learning **JavaScript ,Mongo DB, Json Api, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thowfeeksalim?tab=repositories](https://github.com/thowfeeksalim?tab=repositories)
 
